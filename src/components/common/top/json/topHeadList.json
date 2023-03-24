@@ -1,0 +1,162 @@
+[
+ {
+  "id": 0,
+  "title": "首页",
+  "path": "/index",
+  "titleChild": []
+ },
+ {
+  "id": 1,
+  "title": "抖音段子",
+  "path": "/crossTalk",
+  "titleChild": [
+   {
+    "id": 0,
+    "title": "全部段子",
+    "icon": "icon-yingyongzhongxin"
+   },
+   {
+    "id": 1,
+    "title": "沙雕段子",
+    "icon": "icon-gaoxiao"
+   },
+   {
+    "id": 2,
+    "title": "搞笑段子",
+    "icon": "icon-daxiao"
+   },
+   {
+    "id": 3,
+    "title": "内涵段子",
+    "icon": "icon-piezui"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "短剧本",
+  "path": "/play",
+  "titleChild": [
+   {
+    "id": 0,
+    "title": "全部剧本",
+    "icon": "icon-yingyongzhongxin"
+   },
+   {
+    "id": 1,
+    "title": "搞笑剧本",
+    "icon": "icon-gaoxiao"
+   },
+   {
+    "id": 2,
+    "title": "宠物萌宠",
+    "icon": ""
+   },
+   {
+    "id": 3,
+    "title": "购物营销",
+    "icon": "icon-gouwu"
+   },
+   {
+    "id": 4,
+    "title": "家庭生活",
+    "icon": "icon-aiqingqinglv"
+   },
+   {
+    "id": 5,
+    "title": "社会职场",
+    "icon": "icon-shouye"
+   },
+   {
+    "id": 6,
+    "title": "校园生活",
+    "icon": "icon-xueshimao-shi"
+   },
+   {
+    "id": 7,
+    "title": "情侣生活",
+    "icon": "icon-keaide"
+   },
+   {
+    "id": 8,
+    "title": "正能量",
+    "icon": "icon-huo"
+   },
+   {
+    "id": 9,
+    "title": "沙雕",
+    "icon": "icon-daxiao"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "title": "短文",
+  "path": "/tractate",
+  "titleChild": [
+   {
+    "id": 0,
+    "title": "心灵鸡汤",
+    "icon": ""
+   },
+   {
+    "id": 1,
+    "title": "经典美文",
+    "icon": "icon-wendang"
+   },
+   {
+    "id": 2,
+    "title": "情感小品",
+    "icon": "icon-aiqingqinglv"
+   },
+   {
+    "id": 3,
+    "title": "灵异故事",
+    "icon": "icon-haipa"
+   },
+   {
+    "id": 4,
+    "title": "娱乐小品",
+    "icon": "icon-youxiyuleEntertainment4"
+   },
+   {
+    "id": 5,
+    "title": "寓言童话",
+    "icon": "icon-chengbao"
+   },
+   {
+    "id": 6,
+    "title": "演讲公文",
+    "icon": "icon-zhuanjiajiangzuo"
+   },
+   {
+    "id": 7,
+    "title": "神话传说",
+    "icon": "icon-bagua"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "剧本定制",
+  "path": "/customMade",
+  "titleChild": []
+ },
+ {
+  "id": 5,
+  "title": "行业资讯",
+  "path": "/information",
+  "titleChild": [
+   {
+    "id": 0,
+    "title": "运营教程",
+    "icon": "icon-dingdanbanzi"
+   },
+   {
+    "id": 1,
+    "title": "行业资讯",
+    "icon": "icon-jurassic_text"
+   }
+  ]
+ }
+]

@@ -1,0 +1,52 @@
+@import './element.css';
+
+* {
+ margin: 0;
+ padding: 0;
+}
+
+:root {
+ --backColor: #F62959;
+ --textColor: #333
+}
+
+li {
+ list-style-type: none;
+}
+
+input {
+ outline: none;
+}
+
+input::-webkit-input-placeholder {
+ color: #999999;
+}
+
+.content {
+ width: 1200px;
+ margin: 0 auto;
+}
+
+img,
+object,
+input,
+textarea,
+button,
+select {
+ vertical-align: middle
+}
+
+input,
+textarea,
+button,
+select,
+a {
+ outline: 0 none;
+ border: none;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+ padding: 0;
+ border: 0
+}
